@@ -1,0 +1,12 @@
+{
+  "name": "simple-calculator1",
+  "version": "1.0.0",
+  "description": "This a simple calculator1.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
